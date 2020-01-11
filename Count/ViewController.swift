@@ -32,7 +32,7 @@ class ViewController: UIViewController {
         number = 0
         UILabel.text = String(number)
     }
-
+//テスト
 
 }
 
